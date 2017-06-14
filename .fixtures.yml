@@ -1,0 +1,5 @@
+fixtures:
+  repositories:
+    stdlib: "https://github.com/puppetlabs/puppetlabs-stdlib.git"
+  symlinks:
+    yum_conf: "#{source_dir}"
